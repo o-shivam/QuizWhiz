@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">quizwhiz</string>
+
+    <!--Question 1 of the quiz-->
+    <string name="qno1">Q1: The name of our galaxy is :</string>
+    <string name="qno1_opA">Milkiway</string>
+    <string name="qno1_opB">Andromeda</string>
+    <string name="qno1_opC">Large Magellanic Cloud</string>
+    <string name="qno1_opD">Triangula</string>
+
+    <!--Question 2 of the quiz-->
+    <string name="qno2">Q2: The calculated age of the Universe is :</string>
+    <string name="qno2_opA">12.8 Billion years</string>
+    <string name="qno2_opB">14.1 Billion years</string>
+    <string name="qno2_opC">13.7 Bilion years</string>
+    <string name="qno2_opD">11.6 Billion years </string>
+
+    <!--Question 3 of the quiz-->
+    <string name="qno3">Q3: The largest star discovered till now is :</string>
+    <string name="qno3_opA">UY Scuti</string>
+    <string name="qno3_opB">VY Canis Majoris</string>
+    <string name="qno3_opC">Betelgeuse</string>
+    <string name="qno3_opD">Alpha Centauri</string>
+
+    <!--Question 4 of the quiz-->
+    <string name="qno4">Q4: What is the coldest place in the Universe ?</string>
+    <string name="qno4_opA">Eagle Nebula</string>
+    <string name="qno4_opB">Helix Nebula</string>
+    <string name="qno4_opC">Orion Nebula</string>
+    <string name="qno4_opD">Boomerang Nebula</string>
+
+    <!--Question 5 of the quiz-->
+    <string name="qno5">Q5: The 68% of Universe is composed of ?</string>
+    <string name="qno5_opA">Dark Energy</string>
+    <string name="qno5_opB">Matter</string>
+    <string name="qno5_opC">Dark Matter</string>
+    <string name="qno5_opD">White Matter</string>
+
+    <!--Question 6 of the quiz-->
+    <string name="qno6">Q6: The hottest place in the Universe is located in :</string>
+    <string name="qno6_opA">Constellation Orion</string>
+    <string name="qno6_opB">Constellation Sagitarius</string>
+    <string name="qno6_opC">Constellation Virgo</string>
+    <string name="qno6_opD">Constellation Ursa Major</string>
+
+    <!--Question 7 of the quiz-->
+    <string name="qno7">Q7: The given picture shows a :</string>
+    <string name="qno7_opA">White hole</string>
+    <string name="qno7_opB">Nebula</string>
+    <string name="qno7_opC">Quasar</string>
+    <string name="qno7_opD">Black hole</string>
+
+    <!--Question 8 of the quiz-->
+    <string name="qno8">Q8: The largest planet in the solar system is :</string>
+    <string name="qno8_texthint">Enter your answer</string>
+
+    <!--Question 9 of the quiz-->
+    <string name="qno9">Q9: Which planets have a ring around them ?</string>
+    <string name="qno9_opA">Saturn</string>
+    <string name="qno9_opB">Earth</string>
+    <string name="qno9_opC">Mars</string>
+    <string name="qno9_opD">Uranus</string>
+
+    <!--Question 10 of the quiz-->
+    <string name="qno10">Q10: Which NASA mission was last manned mission to moon ?</string>
+    <string name="qno10_opA">Apollo 14</string>
+    <string name="qno10_opB">Apollo 11</string>
+    <string name="qno10_opC">Apollo 17</string>
+    <string name="qno10_opD">Apollo 15</string>
+
+    <string name="Submit">SUBMIT</string>
+    <string name="Reset">RESET</string>
+
+</resources>

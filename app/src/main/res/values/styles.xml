@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/myBrown</item>
+        <item name="colorPrimaryDark">@color/myBrown</item>
+        <item name="colorButtonNormal">#BF360C</item>
+        <item name="navigationBarColor">#@color/myBrown</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
